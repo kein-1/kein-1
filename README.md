@@ -8,7 +8,6 @@
 </div>
 
 
-
 👋  Hi, I’m Kein  
 📕  I'm currently a Master's student studying Computer Science and Information Technology @ UPenn. I am primarily interested in Full Stack Development  
 🚀  Currently working on building out a Full Stack Grocery Project with React, Node.js, Express, PostgreSQL, and TailwindCSS  
