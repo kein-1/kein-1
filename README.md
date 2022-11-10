@@ -2,8 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p>
   <a href="https://www.linkedin.com/in/kevin-j-h-li-51324839/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a> 
+  <a href="https://drive.google.com/file/d/1Mj8MAkLKnT5hxGq9v2MvnQJK1tXIenUq/view?usp=share_link">
+    <img src="https://skillicons.dev/icons?i=gcp"/> 
+  </a>
 </p>
 </div>
 
