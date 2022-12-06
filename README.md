@@ -18,7 +18,7 @@
 
 
 ### My Tool Box
-[![My Skills](https://skillicons.dev/icons?i=py,js,react,nodejs,mongodb,express,postgres,tailwind,jest,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,react,nodejs,mongodb,express,postgres,tailwind,jest,git&perline=6)](https://skillicons.dev)
 
 
 ### Github Stats
