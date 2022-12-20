@@ -12,9 +12,9 @@
 
 
 👋  Hi, I’m Kein  
-📕  I'm currently a Master's student studying Computer Science and Information Technology @ UPenn. I am primarily interested in Full Stack Development  
-🚀  Experimented with GatsbyJS to build out my portfolio site: <a href="keinli.com"></a>. Special thanks to Konstantin for creating the gatsby-theme-portfolio-minimal, in which I used to build out my site 
-💥  Currently learning in-depth Java
+📕  I'm currently a first-year Master's student studying Computer Science and Information Technology @ UPenn. I am primarily interested in Full Stack Development  
+🚀  Experimented with GatsbyJS to build out my portfolio site: <a href="keinli.com"></a>. Special thanks to Konstantin for creating the gatsby-theme-portfolio-minimal, in which I used to build out my site    
+💻  I primarily use Java and JavaScript   
 💥  Planning on learning GraphQL, TypeScript, and Redis
 
 
