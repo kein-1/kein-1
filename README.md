@@ -13,8 +13,9 @@
 
 👋  Hi, I’m Kein  
 📕  I'm currently a Master's student studying Computer Science and Information Technology @ UPenn. I am primarily interested in Full Stack Development  
-🚀  Currently working on building my portfolio site by experimenting with GatsbyJS  
-💥  Currently working on Java testing, and fixing a cookies bug in my UniShop project
+🚀  Experimented with GatsbyJS to build out my portfolio site: <a href="keinli.com"></a>. Special thanks to Konstantin for creating the gatsby-theme-portfolio-minimal, in which I used to build out my site 
+💥  Currently learning in-depth Java
+💥  Planning on learning GraphQL, TypeScript, and Redis
 
 
 
