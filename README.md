@@ -12,14 +12,16 @@
 
 
 👋  Hi, I’m Kein  
-📕  I'm currently a first-year Master's student studying Computer Science and Information Technology @ UPenn. I am primarily interested in Full Stack Development  
+📕  I am a first-year Master's student studying Computer Science and Information Technology @ UPenn 
+⭐  I am also currently working as a Software Engineering intern at Arlite  
 🚀  Experimented with GatsbyJS to build out my portfolio site: <a href="keinli.com"></a>. Special thanks to Konstantin for creating the gatsby-theme-portfolio-minimal, in which I used to build out my site    
-💻  I primarily use Java and JavaScript   
-💥  Planning on learning GraphQL, TypeScript, and Redis
+💻  I primarily use JavaScript and Java  
+💥  Planning on learning GraphQL, TypeScript, Firebase, and Redis. 
 
 
 
-### My Tool Box
+
+### Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=py,js,java,react,nodejs,mongodb,express,postgres,tailwind,jest,git&perline=6)](https://skillicons.dev)
 
 
