@@ -12,7 +12,7 @@
 
 
 👋  Hi, I’m Kein  
-📕  I am a first-year Master's student studying Computer Science and Information Technology @ UPenn 
+📕  I am a first-year Master's student studying Computer Science and Information Technology @ UPenn   
 ⭐  I am also currently working as a Software Engineering intern at Arlite  
 🚀  Experimented with GatsbyJS to build out my portfolio site: <a href="keinli.com"></a>. Special thanks to Konstantin for creating the gatsby-theme-portfolio-minimal, in which I used to build out my site    
 💥  Planning on learning GraphQL, TypeScript, Firebase, and Redis. 
