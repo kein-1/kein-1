@@ -11,11 +11,12 @@
 </div>
 
 
-👋  Hi, I’m Kein  
-📕  I am a first-year Master's student studying Computer Science and Information Technology @ UPenn   
-⭐  I am also currently working as a Software Engineering intern at Arlite  
-🚀  Experimented with GatsbyJS to build out my portfolio site: http://keinli.com. Special thanks to Konstantin for creating the gatsby-theme-portfolio-minimal, in which I used to build out my site    
-💥  Planning on learning GraphQL, TypeScript, Firebase, and Redis. 
+Personal website: [keinli.com](http://keinli.com)  
+
+👋 Hi, I’m Kein  
+📕 I am a first-year Master's student studying Computer Science and Information Technology @ UPenn and a Software Engineering intern at Arlite Techonolgy   
+➕ I have experience building out Full Stack applications and working with databases     
+💥 Planning on learning GraphQL, TypeScript, Firebase, and Redis. 
 
 
 
