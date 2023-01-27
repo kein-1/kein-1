@@ -16,7 +16,7 @@ Personal website: [keinli.com](http://keinli.com)
 👋 Hi, I’m Kein  
 📕 I am a first-year Master's student studying Computer Science and Information Technology @ UPenn and a Software Engineering intern at Arlite Techonolgy   
 ➕ I have experience building out Full Stack applications and working with databases     
-💥 Planning on learning GraphQL, TypeScript, Firebase, and Redis. 
+💥 Planning to learn GraphQL, TypeScript, Firebase, and Redis. 
 
 
 
