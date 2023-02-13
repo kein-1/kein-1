@@ -22,7 +22,7 @@ Personal website: [keinli.com](http://keinli.com)
 
 
 ### Technologies I use
-[![My Skills](https://skillicons.dev/icons?i=py,js,java,react,nodejs,mongodb,express,postgres,tailwind,jest,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,react,nodejs,mongodb,express,postgres,tailwind,jest,git&perline=6)](https://skillicons.dev)
 
 
 ### Github Stats
