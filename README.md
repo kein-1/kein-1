@@ -14,13 +14,13 @@
 Personal website: [keinli.com](http://keinli.com)  
 
 👋 Hi, I’m Kein  
-📕 I am a first-year Master's student studying Computer Science and Information Technology @ UPenn
+📕 I am a first-year Master's student studying Computer Science and Information Technology @ UPenn  
 ➕ I have experience building out Full Stack applications and working with databases through personal projects   
-😧 Currently taking Introductory to Compuer Systems
+😧 Currently taking Introductory to Computer Systems and learning Android development on the side 
 
 
 ### Future Goals and Thoughts 
-💥 Planning to learn GraphQL, Android/iOS development, and Firebase/Redis
+💥 Planning to Android/Kotlin, GraphQL, Redis/Firebase 
 
 
 
