@@ -20,7 +20,7 @@ Personal website: [keinli.com](http://keinli.com)
 
 
 ### Future Goals and Thoughts 
-💥 Planning to Android/Kotlin, GraphQL, Redis/Firebase 
+💥 Planning to learning Android/Kotlin, GraphQL, Redis/Firebase 
 
 
 
