@@ -15,16 +15,15 @@ Personal website: [keinli.com](http://keinli.com)
 
 👋 Hi, I’m Kein  
 💪 I am a first-year Master's student studying Computer Science and Information Technology @ UPenn  
-➕ I have experience building out Full Stack applications and working with databases through personal projects   
-📕 Currently learning Swift, SwiftUI, and iOS Development primarily through CS193P 
-📕 Currently taking Introductory to Computer Systems
+📕 Currently learning Swift, SwiftUI, and iOS Development primarily through CS193P   
+📘 Currently taking Introductory to Computer Systems
 
 
 
 
 
 ### Technologies I use
-[![My Skills](https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,express,postgres,tailwind,git&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,swift,js,react,nodejs,express,postgres,tailwind,git&perline=15)](https://skillicons.dev)
 
 
 ### Github Stats
