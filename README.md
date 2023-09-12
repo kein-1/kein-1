@@ -24,7 +24,7 @@ Personal website: [keinli.com](http://keinli.com)
 
 
 ### Technologies I use
-[![My Skills](https://skillicons.dev/icons?i=java,swift,js,react,nodejs,express,postgres,tailwind,git&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,swift,react,nodejs,express,postgres,tailwind,git&perline=15)](https://skillicons.dev)
 
 
 ### Github Stats
