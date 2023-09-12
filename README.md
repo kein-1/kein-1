@@ -21,12 +21,6 @@ Personal website: [keinli.com](http://keinli.com)
 
 
 
-
-
 ### Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=java,swift,react,nodejs,express,postgres,tailwind,git&perline=15)](https://skillicons.dev)
-
-
-### Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kein-1)](https://git.io/streak-stats)
 
