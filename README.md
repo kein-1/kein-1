@@ -17,7 +17,7 @@ Personal website: [keinli.com](http://keinli.com)
 💪 I am a master's student studying Computer Science and Information Technology @ UPenn    
 📘 Currently taking Computer Systems (OS,Networking, Concurrency) and Algorithms and Computation (Dynamic Programming, Greedy and Graph Algorithms, and NP)  
 📕 Currently learning Swift, SwiftUI, and iOS Development    
-🖥️ Interested in iOS Mobile Development and Backend
+🖥️ Interested in iOS Mobile Development
 
 
 
