@@ -21,9 +21,9 @@ Personal website: [keinli.com](http://keinli.com)
 
 
 
-### Technologies I use
-[![My Skills](https://skillicons.dev/icons?i=swift,java,git&perline=15)](https://skillicons.dev)
+### Technologies I currently use
+[![My Skills](https://skillicons.dev/icons?i=swift,py&perline=15)](https://skillicons.dev)
 
 ### Technologies I have experience in
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,postgres,tailwind&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,express,postgres,tailwind&perline=15)](https://skillicons.dev)
 
