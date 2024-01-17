@@ -15,7 +15,7 @@ Personal website: [keinli.com](http://keinli.com)
 
 👋 Hi, I’m Kein  
 💪 I am a master's student studying Computer Science and Information Technology @ UPenn    
-📘 Currently taking Artificial Intelligence and Big Data Analytics 
+📘 Currently taking Artificial Intelligence and Big Data Analytics  
 📕 Currently learning Swift, SwiftUI, and iOS Development    
 🖥️ Interested in iOS Mobile Development
 
