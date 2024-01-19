@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/keinli/" rel="nofollow noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a> 
-  <a href="[https://drive.google.com/file/d/1SC7-H2kHh1qxJHkVwky4SvScYKax0lEp/view](https://drive.google.com/file/d/1Z-bJVETagMPQDIQK5O_Tv2MCEcKaAj6e/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/1Z-bJVETagMPQDIQK5O_Tv2MCEcKaAj6e/view?usp=sharing">
     <img src="https://skillicons.dev/icons?i=gcp"/> 
   </a>
 </p>
