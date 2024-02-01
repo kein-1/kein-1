@@ -15,8 +15,8 @@ Personal website: [keinli.com](http://keinli.com)
 
 👋 Hi, I’m Kein  
 💪 I am a master's student studying Computer Science and Information Technology @ UPenn    
-📘 Currently taking Artificial Intelligence and Imaging Informatics
-📕 Currently building out iOS projects and self-learning CS193P    
+📘 Currently taking Artificial Intelligence and Imaging Informatics  
+📕 Currently building out iOS projects    
 🖥️ Interested in iOS Mobile Development
 
 
