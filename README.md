@@ -17,7 +17,7 @@ Personal website: [keinli.com](http://keinli.com)
 💪 I am a master's student studying Computer Science and Information Technology @ UPenn    
 📘 Currently taking Artificial Intelligence and Imaging Informatics  
 📕 Currently building out iOS projects    
-🖥️ Interested in iOS Mobile Development, Artifical Intelligence, and NLP
+🖥️ Interested in iOS Mobile Development, Artificial Intelligence, and NLP
 
 
 
