@@ -11,10 +11,9 @@
 </div>
 
 
-Personal website: [keinli.com](http://keinli.com)  
 
 👋 Hi, I’m Kein  
-💪 I am a master's student studying Computer Science and Information Technology @ UPenn    
+💪 I am a master's student studying Computer and Information Technology @ UPenn    
 📘 Currently taking Artificial Intelligence and Imaging Informatics  
 📕 Currently building out iOS projects    
 🖥️ Interested in iOS Mobile Development, Artificial Intelligence, and NLP
