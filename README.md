@@ -1,15 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p>
-  <a href="https://www.linkedin.com/in/keinli/" rel="nofollow noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a> 
-  <a href="https://drive.google.com/file/d/1Z-bJVETagMPQDIQK5O_Tv2MCEcKaAj6e/view?usp=sharing">
-    <img src="https://skillicons.dev/icons?i=gcp"/> 
-  </a>
-</p>
-</div>
-
 
 
 👋 Hi, I’m Kein  
