@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Kein  
 💪 I am a master's student studying Computer and Information Technology @ UPenn    
-📘 Currently taking Artificial Intelligence and Imaging Informatics  
+📘 Currently taking Cloud Technologies Practicum and How to Use Data
 📕 Currently building out iOS projects    
 🖥️ Interested in iOS Mobile Development, Artificial Intelligence, and NLP
 
