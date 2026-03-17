@@ -1,10 +1,8 @@
 
+# Hi, I'm Kein 
 
+I'm interested in iOS development with Swift and SwiftUI
 
-
-### Technologies I currently use
-[![My Skills](https://skillicons.dev/icons?i=swift,py&perline=15)](https://skillicons.dev)
-
-### Technologies I have experience in
-[![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,express,postgres,tailwind&perline=15)](https://skillicons.dev)
-
+- Currently Dev #1 @ Syska Hennessy Group  
+- Built [DayMark]([https://your-app-store-link](https://apps.apple.com/us/app/daymark-daily-journal/id6760376611)) — available on the App Store
+- Currently building Mochi — a pet tracking app to monitor and capture everything about your pet (weight, appointments, special moments, etc.)
