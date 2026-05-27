@@ -4,11 +4,12 @@
 
 ### 🐶 Mochi: Pet Health Tracker
 Track everything related to your pet and capture your favorite memories with them.
-- Available on the App Store: https://apps.apple.com/us/app/mochi-pet-health-tracker/id6771205280
+- App Store Link: https://apps.apple.com/us/app/mochi-pet-health-tracker/id6771205280
+- Currently making additional updates and features
 
 ### 📓 DayMark — Daily Journal
 Write down your most important tasks completed each day in under 50 words.
-- Available on the App Store: https://apps.apple.com/us/app/daymark-daily-journal/id6760376611
+- App Store Link: https://apps.apple.com/us/app/daymark-daily-journal/id6760376611
 
 ## Currently:
 
